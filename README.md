@@ -32,7 +32,7 @@ Here are some key projects I'm working on:
    - **Description**: Helps keeping track of job applications and give real time remainders.
    - **Status**: Complete and open to improvements
 
-### 3. Promptly
+### 3. Promptly - A Community Website for Sharing and Learning of Prompts
    - **Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js)
    - **Description**: A community platform for discussing and solving prompt engineering issues.
 
