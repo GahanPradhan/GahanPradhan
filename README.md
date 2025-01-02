@@ -22,24 +22,24 @@ I have a passion for problem-solving, algorithms, and building web applications.
 
 Here are some key projects I'm working on:
 
-### 1. AI Trip Planner
+### 1. Nomadify - GenAI Trip Planner
    - **Tech Stack**: React, Gemini AI, Firebase, Tailwind CSS
    - **Description**: A project to create an AI-powered trip planner that helps users design custom travel itineraries.
    - **Status**: Actively under development
 
-### 2. Wallet - Expense Tracker and Visualizer
+### 2. JobDash - One stop solution for maintaining job applications
+   - **Tech Stack**: Javascript, Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS
+   - **Description**: Helps keeping track of job applications and give real time remainders.
+   - **Status**: Complete and open to improvements
+
+### 3. Promptly
+   - **Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js)
+   - **Description**: A community platform for discussing and solving prompt engineering issues.
+
+### 4. Wallet - Expense Tracker and Visualizer
    - **Tech Stack**: React, Firebase
    - **Description**: A tool to track expenses and visualize data with graphs, helping users manage their budgets.
    - **Status**: Complete and open to improvements
-
-### 3. Legacy Link
-   - **Tech Stack**: Node.js, Express, MongoDB, EJS, Tailwind CSS
-   - **Description**: A web app connecting students and alumni, providing personalized guidance based on users’ academic progress.
-   - **Status**: Beta stage
-
-### 4. Promptly
-   - **Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js)
-   - **Description**: A community platform for discussing and solving prompt engineering issues.
 
 ---
 
