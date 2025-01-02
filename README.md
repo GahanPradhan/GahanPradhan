@@ -37,9 +37,9 @@ Here are some key projects I'm working on:
    - **Description**: A web app connecting students and alumni, providing personalized guidance based on users’ academic progress.
    - **Status**: Beta stage
 
-### 4. Prompt-Overflow
+### 4. Promptly
    - **Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js)
-   - **Description**: A platform for discussing and solving prompt engineering issues.
+   - **Description**: A community platform for discussing and solving prompt engineering issues.
 
 ---
 
