@@ -5,9 +5,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Pursuing**: B.E. in Computer Science Engineering at NIE Mysuru (Class of 2026)
-- 🌱 **Currently Learning**: React, Firebase, MERN Stack, Agile Software Development
-- 💻 **Skills**:
+- 🎓 Pursuing: B.E. in Computer Science Engineering at NIE Mysuru (Class of 2026)
+- 🌱 Currently Learning: React, Firebase, MERN Stack, Agile Software Development
+- 💻 Skills:
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,firebase,cpp,postgres,flask,docker,jenkins,git,github" />
     <a href="https://ui.shadcn.com/">
@@ -47,26 +47,26 @@ Click any badge below to learn more!
 ### 📌 Promptly – A Community Prompt Engineering Hub
 > A platform for sharing, discovering, and discussing prompt engineering techniques with a social feed, user interactions, and a powerful editor.
 
-- 🛠 **Stack**: MongoDB, Express, React, Node.js  
-- 🔍 **Features**: Like/bookmark prompts, edit & share, explore trending content  
-- 📊 **Status**: 🚧 In Progress
+- 🛠 Stack: MongoDB, Express, React, Node.js  
+- 🔍 Features: Like/bookmark prompts, edit & share, explore trending content  
+- 📊 Status: 🚧 In Progress
 
 ---
 
 ### 📌 JobDash – Job Application Tracker
 > Simplifies the job-hunting process by letting users track applications, set reminders, and visualize job pipelines.
 
-- 🛠 **Stack**: JavaScript, Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS  
-- 📊 **Status**: ✅ Complete
+- 🛠 Stack: JavaScript, Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS  
+- 📊 Status: ✅ Complete
 
 ---
 
 ### 📌 Nomadify – AI-Powered Trip Planner
 > A smart assistant that creates personalized travel plans using generative AI, tailored to user interests and budget.
 
-- 🛠 **Stack**: React, Firebase, Gemini AI, Tailwind CSS, **shadcn/ui**
-- ✨ **Features**: AI itinerary generation, Google Maps integration, weather forecasts  
-- 📊 **Status**: ✅ Complete
+- 🛠 Stack: React, Firebase, Gemini AI, Tailwind CSS, shadcn/ui
+- ✨ Features: AI itinerary generation, Google Maps integration, weather forecasts  
+- 📊 Status: ✅ Complete
 
 ---
 
