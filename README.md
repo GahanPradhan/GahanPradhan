@@ -43,7 +43,6 @@ Click to explore technologies:
 > An open-source MERN app where users share, save, and explore AI prompts. Users can bookmark, like, and comment on prompts—designed with a clean and responsive UI.
 
 - 🛠 **Tech Stack**: MongoDB, Express, React, Node.js
-- 🌍 [Live Demo](#) | 💻 [Source Code](#)
 - 📌 **Status**: 🧪 Actively evolving
 
 ---
@@ -84,11 +83,11 @@ Click to explore technologies:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gahanpradhan&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gahanpradhan&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/gahanpradhan/gahanpradhan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gahanpradhan/gahanpradhan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
