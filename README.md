@@ -10,6 +10,9 @@
 - 💻 **Skills**:
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,firebase,cpp,postgres,flask,docker,jenkins,git,github" />
+    <a href="https://ui.shadcn.com/">
+      <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
   </p>
 
 ---
@@ -26,6 +29,7 @@ Click any badge below to learn more!
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white"/></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+  <a href="https://ui.shadcn.com/"><img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -60,12 +64,11 @@ Click any badge below to learn more!
 ### 📌 Nomadify – AI-Powered Trip Planner
 > A smart assistant that creates personalized travel plans using generative AI, tailored to user interests and budget.
 
-- 🛠 **Stack**: React, Firebase, Gemini AI, Tailwind CSS  
+- 🛠 **Stack**: React, Firebase, Gemini AI, Tailwind CSS, **shadcn/ui**
 - ✨ **Features**: AI itinerary generation, Google Maps integration, weather forecasts  
 - 📊 **Status**: ✅ Complete
 
 ---
-
 
 ## 📈 GitHub Stats
 
@@ -78,6 +81,7 @@ Click any badge below to learn more!
 </p>
 
 ---
+
 ## 🧠 LeetCode Stats
 
 <p align="center">
