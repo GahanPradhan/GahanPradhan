@@ -1,87 +1,82 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00C8FF&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gahan+Pradhan+%F0%9F%91%8B;CS+Undergrad+%7C+Full+Stack+Developer+%7C+Tech+Enthusiast;Passionate+about+Web+Dev%2C+AI%2C+and+Problem+Solving)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00C8FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gahan+Pradhan+%F0%9F%91%8B;CS+Undergrad+%7C+Full+Stack+Developer+%7C+Tech+Enthusiast;Passionate+about+Web+Dev%2C+AI%2C+and+Problem+Solving" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Pursuing**: B.E. in Computer Science Engineering at NIE Mysuru (Class of 2026)
-- 🌱 **Currently Learning**: React, Firebase, MERN Stack, and Agile Software Development
-- 💻 **Skills**:
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,firebase,cpp,postgres,flask,docker,jenkins,git,github" />
-  </p>
-
-### 🧠 Interactive Skills Menu
-Click on a skill to learn more!
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
-</p>
-
-### 🎯 Goals
-- 🚀 Building proficiency in full-stack development
-- 🧠 Improving competitive programming skills
-- ✅ Completing end-to-end projects
+- 🎓 **Pursuing** B.E. in Computer Science Engineering @ NIE Mysuru (Class of 2026)  
+- 🌱 Currently diving deep into **React, Firebase, MERN Stack, Agile Dev**  
+- 🧠 Curious about **AI, GenAI**, and building cool projects  
+- ✨ Always up for a good tech convo or a hackathon hustle!
 
 ---
 
-## 🚀 Projects
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,firebase,cpp,postgres,flask,docker,jenkins,git,github" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- 🚀 Build awesome full-stack products  
+- 🧠 Improve competitive programming skills  
+- 🎓 Complete high-impact end-to-end projects  
+- 💬 Collaborate with the dev community
+
+---
+
+## 💼 Featured Projects
 
 ### 📌 Promptly
-> A community website for sharing and learning about prompts.
+> A community web app for prompt sharing and learning
 
-- **Tech Stack**: MERN (MongoDB, Express, React, Node.js)
-- **Status**: 🚧 In Progress
+- **Stack**: MERN (MongoDB, Express, React, Node.js)  
+- **Status**: 🚧 In Progress  
 
 ---
 
-### 📌 JobDash
-> One-stop solution for maintaining job applications.
+### 📌 JobDash  
+> One-stop solution for tracking job applications
 
-- **Tech Stack**: JavaScript, Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS
+- **Stack**: JavaScript, Flask, PostgreSQL, Docker, Jenkins, Tailwind  
+- **Status**: ✅ Complete  
+
+---
+
+### 📌 Nomadify  
+> GenAI-powered travel itinerary builder for wanderlusters ✈️
+
+- **Stack**: React, Gemini AI, Firebase, Tailwind  
+- **Status**: 🚀 Active  
+
+---
+
+### 📌 Wallet  
+> A sleek expense tracker + visualizer  
+
+- **Stack**: React, Firebase  
 - **Status**: ✅ Complete
 
 ---
 
-### 📌 Nomadify
-> GenAI-powered Trip Planner for personalized travel itineraries.
-
-- **Tech Stack**: React, Gemini AI, Firebase, Tailwind CSS
-- **Status**: 🚀 Active Development
-
----
-
-### 📌 Wallet
-> Expense Tracker and Visualizer.
-
-- **Tech Stack**: React, Firebase
-- **Status**: ✅ Complete
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gahanpradhan&show_icons=true&theme=tokyonight" alt="Gahan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gahanpradhan&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahanpradhan&layout=compact&theme=radical" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahanpradhan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gahanpradhan&theme=github-compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gahanpradhan&theme=github-compact" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/gahanpradhan/gahanpradhan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/gahanpradhan/gahanpradhan/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -89,19 +84,19 @@ Click on a skill to learn more!
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gahan-pradhan-7b9788252/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/gahan-pradhan-7b9788252/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  <a href="https://www.instagram.com/gahanpradhan/" target="_blank" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-  <a href="https://leetcode.com/your_leetcode_username/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
+  <a href="https://leetcode.com/u/Gahan_Pradhan_06/" target="_blank" title="LeetCode">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="38" />
   </a>
 </p>
 
-> I'm always open to collaboration and discussions around full-stack development, AI, and competitive programming. Feel free to reach out!
-
 ---
 
-Thanks for visiting my profile! ⭐
+<p align="center">
+  <b>Let's build something amazing. Thanks for stopping by! 🌟</b>
+</p>
