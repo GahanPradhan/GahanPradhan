@@ -61,18 +61,10 @@ Click to explore technologies:
 
 - 🛠 **Tech Stack**: React, Firebase, Gemini AI, Tailwind CSS
 - 🌎 AI-powered trip suggestions, live map integration
-- ⚙️ **Status**: Ongoing feature rollout
+- ✅ **Status**: Completed and deployed
 
 ---
 
-### 📌 Wallet - Expense Tracker
-> Visual expense management dashboard that tracks and categorizes spending. Integrates Firebase Auth and Firestore.
-
-- 🛠 **Tech Stack**: React, Firebase
-- 📊 Dynamic graphs and UI-based analytics
-- ✅ **Status**: Feature complete, open for upgrades
-
----
 
 ## 📈 GitHub Stats
 
@@ -104,8 +96,9 @@ Click to explore technologies:
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/Gahan_Pradhan_06/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" alt="LeetCode" />
+</a>
+
 </p>
 
 > Let's collaborate, share ideas, and build cool things!
