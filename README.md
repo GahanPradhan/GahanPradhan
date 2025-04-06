@@ -29,7 +29,7 @@ Click any badge below to learn more!
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white"/></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
-  <a href="https://ui.shadcn.com/"><img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+ 
 </p>
 
 ---
