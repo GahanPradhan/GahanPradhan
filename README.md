@@ -5,21 +5,14 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Pursuing**: B.E. in Computer Science Engineering at NIE Mysuru (Class of 2026)
-- 🌱 **Currently Learning**: React, Firebase, Next.js, MERN Stack, and Agile Software Development
+- 🌱 **Currently Learning**: React, Firebase, MERN Stack, and Agile Software Development
+- 💻 **Skills**:
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,firebase,cpp,postgres,flask,docker,jenkins,git,github" />
+  </p>
 
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,tailwind,firebase,cpp,postgres,flask,docker,jenkins,git,github" />
-</p>
-
----
-
-## 🧠 Interactive Skills Menu
-
-Click on a skill to learn more:
+### 🧠 Interactive Skills Menu
+Click on a skill to learn more!
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -32,10 +25,7 @@ Click on a skill to learn more:
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 </p>
 
----
-
-## 🎯 Goals
-
+### 🎯 Goals
 - 🚀 Building proficiency in full-stack development
 - 🧠 Improving competitive programming skills
 - ✅ Completing end-to-end projects
@@ -46,21 +36,31 @@ Click on a skill to learn more:
 
 ### 📌 Promptly
 > A community website for sharing and learning about prompts.
+
 - **Tech Stack**: MERN (MongoDB, Express, React, Node.js)
 - **Status**: 🚧 In Progress
 
+---
+
 ### 📌 JobDash
 > One-stop solution for maintaining job applications.
+
 - **Tech Stack**: JavaScript, Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS
 - **Status**: ✅ Complete
 
+---
+
 ### 📌 Nomadify
 > GenAI-powered Trip Planner for personalized travel itineraries.
+
 - **Tech Stack**: React, Gemini AI, Firebase, Tailwind CSS
 - **Status**: 🚀 Active Development
 
+---
+
 ### 📌 Wallet
 > Expense Tracker and Visualizer.
+
 - **Tech Stack**: React, Firebase
 - **Status**: ✅ Complete
 
@@ -88,9 +88,15 @@ Click on a skill to learn more:
 
 ## 🌐 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/gahan-pradhan-7b9788252/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gahan-pradhan-7b9788252/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/your_leetcode_username/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
   </a>
 </p>
 
