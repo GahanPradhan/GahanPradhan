@@ -1,82 +1,94 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00C8FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gahan+Pradhan+%F0%9F%91%8B;CS+Undergrad+%7C+Full+Stack+Developer+%7C+Tech+Enthusiast;Passionate+about+Web+Dev%2C+AI%2C+and+Problem+Solving" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00C8FF&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gahan+Pradhan+%F0%9F%91%8B;CS+Undergrad+%7C+Full+Stack+Developer+%7C+Tech+Enthusiast;Passionate+about+Web+Dev%2C+AI%2C+and+Problem+Solving)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Pursuing** B.E. in Computer Science Engineering @ NIE Mysuru (Class of 2026)  
-- 🌱 Currently diving deep into **React, Firebase, MERN Stack, Agile Dev**  
-- 🧠 Curious about **AI, GenAI**, and building cool projects  
-- ✨ Always up for a good tech convo or a hackathon hustle!
+- 🎓 **Pursuing**: B.E. in Computer Science Engineering at NIE Mysuru (Class of 2026)
+- 🌱 **Currently Learning**: React, Firebase, MERN Stack, and Agile Software Development
+- 💻 **Skills**:
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,firebase,cpp,postgres,flask,docker,jenkins,git,github" />
+  </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Interactive Skills Menu
+
+Click to explore technologies:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,firebase,cpp,postgres,flask,docker,jenkins,git,github" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🎯 Goals
-
-- 🚀 Build awesome full-stack products  
-- 🧠 Improve competitive programming skills  
-- 🎓 Complete high-impact end-to-end projects  
-- 💬 Collaborate with the dev community
+- 🚀 Build solid full-stack dev proficiency
+- 🧠 Improve competitive programming
+- ✅ Complete impactful real-world projects
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Projects
 
-### 📌 Promptly
-> A community web app for prompt sharing and learning
+### 📌 Promptly - AI Prompt Community Platform
+> An open-source MERN app where users share, save, and explore AI prompts. Users can bookmark, like, and comment on prompts—designed with a clean and responsive UI.
 
-- **Stack**: MERN (MongoDB, Express, React, Node.js)  
-- **Status**: 🚧 In Progress  
-
----
-
-### 📌 JobDash  
-> One-stop solution for tracking job applications
-
-- **Stack**: JavaScript, Flask, PostgreSQL, Docker, Jenkins, Tailwind  
-- **Status**: ✅ Complete  
+- 🛠 **Tech Stack**: MongoDB, Express, React, Node.js
+- 🌍 [Live Demo](#) | 💻 [Source Code](#)
+- 📌 **Status**: 🧪 Actively evolving
 
 ---
 
-### 📌 Nomadify  
-> GenAI-powered travel itinerary builder for wanderlusters ✈️
+### 📌 JobDash - Job Application Tracker
+> A personal dashboard to track job applications with reminders and status updates. Includes Docker containerization and CI/CD with Jenkins.
 
-- **Stack**: React, Gemini AI, Firebase, Tailwind  
-- **Status**: 🚀 Active  
-
----
-
-### 📌 Wallet  
-> A sleek expense tracker + visualizer  
-
-- **Stack**: React, Firebase  
-- **Status**: ✅ Complete
+- 🛠 **Tech Stack**: Flask, PostgreSQL, Tailwind, Docker, Jenkins
+- 🚀 Features: Real-time reminders, timeline visualizer, cloud-deployable
+- ✅ **Status**: Completed and deployed
 
 ---
 
-## 📊 GitHub Highlights
+### 📌 Nomadify - AI-Powered Trip Planner
+> A GenAI-based travel planning tool that crafts custom itineraries using Gemini AI and Google APIs. Allows users to plan entire trips based on preferences.
+
+- 🛠 **Tech Stack**: React, Firebase, Gemini AI, Tailwind CSS
+- 🌎 AI-powered trip suggestions, live map integration
+- ⚙️ **Status**: Ongoing feature rollout
+
+---
+
+### 📌 Wallet - Expense Tracker
+> Visual expense management dashboard that tracks and categorizes spending. Integrates Firebase Auth and Firestore.
+
+- 🛠 **Tech Stack**: React, Firebase
+- 📊 Dynamic graphs and UI-based analytics
+- ✅ **Status**: Feature complete, open for upgrades
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gahanpradhan&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahanpradhan&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gahanpradhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahanpradhan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gahanpradhan&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gahanpradhan&theme=github-compact" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/gahanpradhan/gahanpradhan/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/gahanpradhan/gahanpradhan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -84,19 +96,21 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gahan-pradhan-7b9788252/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://www.linkedin.com/in/gahan-pradhan-7b9788252/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/gahanpradhan/" target="_blank" title="Instagram">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  &nbsp;
+  <a href="https://www.instagram.com/gahanpradhan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/u/Gahan_Pradhan_06/" target="_blank" title="LeetCode">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="38" />
+  &nbsp;
+  <a href="https://leetcode.com/u/Gahan_Pradhan_06/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" />
   </a>
 </p>
+
+> Let's collaborate, share ideas, and build cool things!
 
 ---
 
-<p align="center">
-  <b>Let's build something amazing. Thanks for stopping by! 🌟</b>
-</p>
+Thanks for stopping by! ⭐
