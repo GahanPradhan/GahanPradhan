@@ -9,9 +9,8 @@
 - 🌱 Currently Learning: React, Firebase, MERN Stack, Agile Software Development
 - 💻 Skills:
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,firebase,cpp,postgres,flask,docker,jenkins,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,firebase,cpp,postgres,flask,docker,jenkins,git,github,shadcn" />
     <a href="https://ui.shadcn.com/">
-      <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
 
