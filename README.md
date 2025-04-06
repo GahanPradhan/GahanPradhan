@@ -62,17 +62,10 @@ Click any badge below to learn more!
 
 - 🛠 **Stack**: React, Firebase, Gemini AI, Tailwind CSS  
 - ✨ **Features**: AI itinerary generation, Google Maps integration, weather forecasts  
-- 📊 **Status**: 🚀 Active Development
-
----
-
-### 📌 Wallet – Expense Tracker & Visualizer
-> A visual-first budgeting app to manage daily expenses and monthly savings.
-
-- 🛠 **Stack**: React, Firebase  
 - 📊 **Status**: ✅ Complete
 
 ---
+
 
 ## 📈 GitHub Stats
 
@@ -85,11 +78,10 @@ Click any badge below to learn more!
 </p>
 
 ---
-
-## 🐍 Contribution Snake Animation
+## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gahanpradhan/gahanpradhan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://leetcard.jacoblin.cool/gahan_pradhan_06?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
