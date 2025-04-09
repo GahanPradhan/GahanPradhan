@@ -63,9 +63,19 @@ Click any badge below to learn more!
 ### 📌 Nomadify – AI-Powered Trip Planner
 > A smart assistant that creates personalized travel plans using generative AI, tailored to user interests and budget.
 
-- 🛠 Stack: React, Firebase, Gemini AI, Tailwind CSS, shadcn/ui
+- 🛠 Stack: React, Firebase, Gemini AI, Tailwind CSS, shadcn/ui  
 - ✨ Features: AI itinerary generation, Google Maps integration, weather forecasts  
 - 📊 Status: ✅ Complete
+
+---
+
+### 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1fOY9oLXUZTkgWuD7edhlxCGCyUNG-I3o/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
 
 ---
 
